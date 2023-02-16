@@ -60,9 +60,11 @@ WARBLER
 ## VOICE DATA 
 
 This database was created to identify a voice as male or female, based upon acoustic properties of the voice and speech. The dataset consists of 3,168 recorded voice samples, collected from male and female speakers. The voice samples are pre-processed by acoustic analysis in R using the seewave and tuneR packages, with an analyzed frequency range of 0hz-280hz (human vocal range).  
-[Gender Recognition by Voice | Kaggle](https://www.kaggle.com/datasets/primaryobjects/voicegender)
+[Gender Recognition by Voice | Kaggle](https://www.kaggle.com/datasets/primaryobjects/voicegender)  
+  
 
-
+[RESEARCH PAPER](https://drive.google.com/file/d/16EbNPzD8YwqQR0rYQOAS_SfUxIQHllXz/view?usp=sharing)  
+[PPT_REPORT](https://drive.google.com/drive/folders/1ctAaZCYXuHrUk3IkxVOdwuSnJtoZUz8t?usp=sharing)
 
 
 
