@@ -23,7 +23,7 @@ these 21 columns.
 ![image](https://user-images.githubusercontent.com/114367518/219280036-b90541f0-1a92-441c-aaa6-31b68df84d60.png)  
 
 
-PYTHON LIBRARIES:
+## PYTHON LIBRARIES:
 ```
 SKLEARN  
 MATPLOTLIB    
@@ -34,6 +34,16 @@ PYTHON-SPEECH-FEATURES
 SCIKIT-LEARN  
 SCIPY  
 PICKLE  
+```
+![image](https://user-images.githubusercontent.com/114367518/219280678-5c06e50e-4690-466d-9468-2c963a537532.png)  
+
+
+## R LIBRARIES:
+
+```
+TUNER
+SEEWAVE
+WARBLER
 ```
 
 
