@@ -17,7 +17,7 @@ There are features and the classification of male or female in
 these 21 columns.
 ### ATTRIBUTES: 
 
-![image](https://user-images.githubusercontent.com/114367518/219279917-d0c177cd-cb76-4125-a08c-ba0dc8050427.png)  
+![image](https://user-images.githubusercontent.com/114367518/219280414-9fa97e06-7387-4c2c-9949-3553c18d905d.png)    
 ![image](https://user-images.githubusercontent.com/114367518/219279987-58766ee2-f7e1-4fa4-881c-02acc8c9f692.png)  
 ![image](https://user-images.githubusercontent.com/114367518/219280012-e15613f6-ee44-4a48-99b9-c728d1eab976.png)  
 ![image](https://user-images.githubusercontent.com/114367518/219280036-b90541f0-1a92-441c-aaa6-31b68df84d60.png)  
