@@ -35,7 +35,12 @@ SCIKIT-LEARN
 SCIPY  
 PICKLE  
 ```
-![image](https://user-images.githubusercontent.com/114367518/219280678-5c06e50e-4690-466d-9468-2c963a537532.png)  
+![image](https://user-images.githubusercontent.com/114367518/219280821-45ce97af-c991-45c0-ab71-95350b0f71ce.png)  
+![image](https://user-images.githubusercontent.com/114367518/219280837-634c27d6-e0e5-4f0c-ae18-d6ea45fc6781.png)  
+![image](https://user-images.githubusercontent.com/114367518/219280847-71be532c-15e2-4a34-97e7-2e729b048d5e.png)  
+![image](https://user-images.githubusercontent.com/114367518/219280853-fbb8861e-b9df-4e14-9d28-a43d6a6aa1a1.png)  
+![image](https://user-images.githubusercontent.com/114367518/219280864-b915ff34-74ee-44ec-adea-6c8211958303.png)  
+
 
 
 ## R LIBRARIES:
