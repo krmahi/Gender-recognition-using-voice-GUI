@@ -85,6 +85,8 @@ Pandas
 numpy
 
 ```
+![image](https://github.com/krmahi/Gender_recognition_using_voice/assets/114367518/d45ef6ff-5026-45f6-8976-5cc16d79b093)
+
 ## LIMITATIONS
 
 >Voice Recording should have an active BACKGROUND NOISE CANCELLATION , pre or post recording, to get the precise output.
