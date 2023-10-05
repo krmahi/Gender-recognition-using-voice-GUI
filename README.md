@@ -67,7 +67,37 @@ This database was created to identify a voice as male or female, based upon acou
 [PPT_REPORT](https://drive.google.com/drive/folders/1ctAaZCYXuHrUk3IkxVOdwuSnJtoZUz8t?usp=sharing)
 
 
+# VER-2.0  
 
+We have implemented the GUI in ver-2.0 with multiple different features,  
+like Variable Dataset append value every time a use uses it, just like AI which collects and saves data from user for every use and improve itselt   
+The GUI also gives the interface to plot  
+>LOSS CURVE ( GOOD FIT )  
+>ACCURACY CURVE  
+>PRECISION CURVE using ( matplotlib )   
+
+## GUI LIBRAIES
+
+```
+Tkinter
+CustomTkinter
+Pandas
+numpy
+
+```
+## LIMITATIONS
+
+>Voice Recording should have an active BACKGROUND NOISE CANCELLATION , pre or post recording, to get the precise output.
+
+>Using variable Dataset increases accuracy of algorithms but, might arise the problem of OVERFITTINS, to remove this problem we can monitor the LOSS CURVE and and as soon has the LOSS CURVE values start going UP again it will be the cue for OVERFITTING so then our program will stop incrementing the DATASET, then we can start it again as soon as the curve is stable again , this will be looped , making the dataset almost always variable and convert a STATIC ML PROJECT to SEMI - AI PROJECT. 
+
+
+```
+Ver-2.0 in RELEASED as an Executable
+```
+  
+>MIT LICENCE   
+>Licence FILE included
 
 
 
